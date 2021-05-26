@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: I'm changing this title right now
+    title: New title
     content: >-
       I'm changing this right now contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
