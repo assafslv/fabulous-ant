@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hey, I''m Devon, and I design.'
+    title: 'Hey, I''m Devon, a designer, photographer and a party pooper.'
     content: >
       I'm a designer based in Toronto, but you can reach me from basically
       anywhere. I'm a graphic designer, and I'm also pretty good at brand
