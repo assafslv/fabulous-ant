@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hey, I''m Devon!'
-    content: >-
-      I'm changing this right now contain a subtitle or tagline. The recommended
-      length is one to three sentences, but can be changed as you prefer.
+    content: >
+      I'm a designer based in Toronto, but you can reach me from basically
+      anywhere. I'm a graphic designer, and I'm also pretty good at brand
+      strategy. Let's chat if you have something interesting in your pipeline.
     actions:
       - label: Let's talk
         url: /contact
